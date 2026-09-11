@@ -1,0 +1,11 @@
+Here's the components for the Switch Zero.
+
+COMPONENTS                 UNITS
+================================
+ESP32 WROOM 32             1
+0.96" OLED                 1
+MFRC522                    1
+VTR Switches               4
+
+Note: Connections can be found in the Code. Also, make sure that Left and Right VTR Switches are connected such that they read 0 when open and 1 when closed as 
+INPUT_PULLUP
