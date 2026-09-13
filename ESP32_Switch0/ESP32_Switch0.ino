@@ -2,7 +2,6 @@
 // SWITCH ZERO
 // Date: 5th September 2026
 // Author(s): Y. Panigrahi
-// Connections: I. Rajput
 // ============================================================
 
 #include <Wire.h>
